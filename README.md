@@ -25,5 +25,4 @@ This project exemplifies key elements of data science, including:
 5. **Visualization**:
    - Visualizations, including scatter plots comparing actual and predicted prices, help interpret the results and communicate findings effectively.
 
-## Instructions to Run the Code
-1. Install required libraries:
+
